@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
 }
+body{
+  background-image: url(image/chat.jpg);
+}
 .container{
   display: flex;
   justify-content: space-between;
