@@ -3,9 +3,12 @@
 }
 .container{
   display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 .item{
   width:20px;
   height:20px;
   background-color: black;
+  margin-top: 20px;
 }
