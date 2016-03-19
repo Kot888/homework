@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body{
-  background-image: url(image/chat.jpg);
+  background-image: url(../image/chat.jpg);
 }
 .container{
   display: flex;
