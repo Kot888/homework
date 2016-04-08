@@ -1,23 +1,17 @@
 * {
   box-sizing: border-box;
 }
-html,
-head{
-  height: 100%;
-}
-body {
+body{
   background-image: url(../image/chat.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
 }
-.container {
+.container{
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.item {
-  width: 20px;
-  height: 20px;
+.item{
+  width:20px;
+  height:20px;
   background-color: black;
   margin-top: 20px;
 }
